@@ -16,7 +16,7 @@ namespace AspBot
         };
         public BotService()
         {
-            _botClient = new TelegramBotClient("7182360517:AAFMJseBoasM9m0P0LygoFiz2jX0ufZV5fU");
+            _botClient = new TelegramBotClient("7155257879:AAEN3E8gEYGXS0MIoMQyjBIJoHJRm-_Ypfg");
         }
 
         protected override async Task ExecuteAsync(CancellationToken stoppingToken)
